@@ -1,4 +1,4 @@
-# Portfolio
+# Welcome to my Portfolio
 Welcome to my portfolio, where data meets insights, and numbers tell a story. I am excited to present a collection of my work that showcases my passion for unraveling the hidden patterns within data and transforming them into actionable insights. These works are a combination of school work as well as projects from my work experiences and internships. 
 
 In this portfolio, you will find examples of my work demonstrating my data analysis, visualization, and storytelling expertise. You will see how I have leveraged my knowledge in statistical analysis, data manipulation, and various data analysis tools to provide valuable insights to organizations. These projects not only highlight my technical proficiency but also reflect my ability to b
